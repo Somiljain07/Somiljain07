@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Somiljain07
+- 👀 I’m interested in Frontend Web/app development
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Angular/JavaScript or on any frontend projects.
+- 📫 Reach me at https://www.linkedin.com/in/somiljain07 
